@@ -222,3 +222,6 @@ data/private/
 
 # Environment variable and API keys
 .env
+
+# Virtual environment 
+env/
