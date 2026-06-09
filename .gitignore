@@ -225,3 +225,6 @@ data/private/
 
 # Virtual environment 
 env/
+
+# Local roadmap
+journal_insights_roadmap.html
